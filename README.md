@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🤝 I’m looking for help with Next js<br>🌱 I’m currently learning C#,Python, C++ and MySql.<br>💬 Ask me about exercise to stay fit.<br>⚡ Fun fact I am Lazy
+<br>🌱 I’m currently learning C#,Python, C++ and MySql.<br>💬 Ask me about exercise to stay fit.<br>⚡ Fun fact I am Lazy
 
 
 ## 🌐 Socials:
